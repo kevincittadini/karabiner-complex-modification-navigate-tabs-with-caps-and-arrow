@@ -4,7 +4,7 @@
 This _Karabiner Complex Modification_ that will allow you to navigate through tabs using Caps Lock + Arrows instead of LCommand+LAlt+Any arrow
 
 This is really useful if you're using an external keyboard.
-I've been having hardare/compatibility issues holding LCmd and LAlt at the same time.
+I've been having hardware/compatibility issues holding LCmd and LAlt at the same time.
 
 ### Installation 
 
